@@ -60,11 +60,9 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <(https://github.com/DurgaKaushik05/MAJOR-PROJECT_1.git)>
 cd MAJOR-PROJECT_1
 ```
-
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with your actual GitHub repository URL.
 
 ### 2. Install Dependencies
 
